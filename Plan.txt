@@ -1,0 +1,48 @@
+PC - Slime character
+
+NPC - Sand as falling objects
+
+RULES - 1. Player should collect all the coins on the level.
+
+2. To complete the level they will have to reach the portal at the end of the course.
+
+3. Score increments when we collect the coins.
+
+4. Player dies if he falls into the void.
+
+5. Player has 3 hearts for a level.
+
+6. He loses half of the coins if he falls down.
+
+ADAPTIVITY - 1. Checkpoints
+
+2. Timer
+
+3. Helping tools
+
+FEEDBACK - 1. Scores
+
+2. Sounds
+
+3. Hearts (3)
+
+GAME GOAL - 1. Reach the portal at the end of the level.
+
+GAME MECHANISM - 1. Keys to jump W or up arrow.
+
+2. Keys to move A D or left arrow or right arrow
+
+3. He can’t jump if he is on the falling blocks
+
+--------------------------------------------------------------
+
+Images
+
+1. Player
+2. Background
+3. Blocks
+4. Coins 
+5. Portal
+6. Hearts 
+
+Class 43 - Player, player movement, background.
